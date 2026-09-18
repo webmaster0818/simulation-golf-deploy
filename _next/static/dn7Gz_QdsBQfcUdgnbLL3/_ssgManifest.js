@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Farea\u002F[pref]","\u002Fbrand\u002F[slug]","\u002Ffacility\u002F[slug]","\u002Ffeature\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
