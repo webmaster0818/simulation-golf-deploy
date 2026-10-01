@@ -46,11 +46,11 @@
   <url><loc>https://golf-simulate.com/area/kagawa/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/kagoshima/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/okinawa/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/area/miyazaki/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/aomori/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/iwate/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/yamagata/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/wakayama/</loc><lastmod>2026-10-01</lastmod></url>
-  <url><loc>https://golf-simulate.com/area/miyazaki/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/yamanashi/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/shimane/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/area/kochi/</loc><lastmod>2026-10-01</lastmod></url>
@@ -101,6 +101,7 @@
   <url><loc>https://golf-simulate.com/brand/i8golf/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/brand/doortogolf/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/brand/zengolf/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/brand/inthegolf/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/feature/private-room/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/feature/open-24h/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/feature/parking/</loc><lastmod>2026-10-01</lastmod></url>
@@ -674,6 +675,29 @@
   <url><loc>https://golf-simulate.com/facility/zengolf-yachiyo/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/zengolf-yoga/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/zengolf-yoshikawa/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-aeon-miyazaki/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-dazaifu/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-fukuoka-kasuga/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-fukuoka-noke/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-fukuoka-wajiro/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-kagoshima/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-kitakyushu-honjo/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-kitakyushu-tobata/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-kokura/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-kumamoto-hanabata/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-kumamoto-hikarinomori/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-lite-chikugo/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-lite-kurume-komorino/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-lite-ogori/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-mallage-saga/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-minami-miyazaki/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-nagasaki-sc/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-nishitetsu-kurume/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-ohashi/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-ohnojo-sakuranamiki/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-oita-nakatsuru/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-oita-wasadatown/</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/inthegolf-saga-oroshihonmachi/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/aomori-indoor-golf-park-20do/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/kikusuikan-indoor-golf/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/sailvan-golf-hill/</loc><lastmod>2026-10-01</lastmod></url>
