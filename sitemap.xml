@@ -104,6 +104,7 @@
   <url><loc>https://golf-simulate.com/brand/inthegolf/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/brand/lounge-range/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/brand/igc/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/brand/mygol/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/feature/private-room/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/feature/open-24h/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/feature/parking/</loc><lastmod>2026-10-02</lastmod></url>
@@ -790,6 +791,79 @@
   <url><loc>https://golf-simulate.com/facility/igc-kosai/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/igc-kyusyu/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/igc-aoba/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-hachinohe/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-koriyama/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-hitachiomika/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-moriya/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-oyama/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-higashikawaguchi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kawaguchi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kitaurawaekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-soka/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kotesashi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-satte/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-warabi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-inzai/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-yachiyodaiekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-inage/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-shinjukuhyakunincho/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-musashimurayama/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-minamisunamachi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-higashioojima/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-higashimatsubara/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-itabashioyamaekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-higashimurayamaekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-takenozuka/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-ogikubo/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-denenchofu/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-suginamimiyamae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-sasazuka/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-mikawashimaekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-asakusa/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-atsugihayashi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kakioekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-musashinakaharaekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-miyazakidai/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-nishiyokohama/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kawasakinogawa/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-chigasaki/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-tsunashima/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-hakurakuekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-honmoku/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-higashimonzen/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kawasaki/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kanazawatatemachi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-sakudaira/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-megadonquijotetoyohashi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-fujigaoka/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kariya/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-miyoshi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-atsuta/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kizugawa/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kishiwada/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-minamimorimachi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-hiranouriwari/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-fukai/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-miyakojima/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-hotelnewotaniosaka/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-shinsaibashi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-ibarakishiekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-sakaishiekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-tennouji/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kobeokamoto/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kawanishi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-ikoma/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-matueyahata/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-okayamatomimachi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-kurashikiekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-hiroshimaotemachi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-hiroshimainokuchidai/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-syoudai/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-haruyoshi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-yahatanishi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-yoshidukaekimae/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-sasebo/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/mygol-naha/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/aomori-indoor-golf-park-20do/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/kikusuikan-indoor-golf/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/sailvan-golf-hill/</loc><lastmod>2026-10-02</lastmod></url>
@@ -797,4 +871,9 @@
   <url><loc>https://golf-simulate.com/facility/sun-power-golf-miyakonojo/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/golf-range-luana-kofu/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/poa-annua-kochi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/fusion-golf-daisen/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/otesuji-golf/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/club19-yamagata-miyamachi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/indoorgolf-kouyasan-yamaguchi/</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/genki-golf-studio/</loc><lastmod>2026-10-02</lastmod></url>
 </urlset>
