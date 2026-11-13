@@ -28,7 +28,7 @@
   <url><loc>https://golf-simulate.com/area/tochigi/</loc><lastmod>2026-11-08</lastmod></url>
   <url><loc>https://golf-simulate.com/area/kyoto/</loc><lastmod>2026-11-08</lastmod></url>
   <url><loc>https://golf-simulate.com/area/nara/</loc><lastmod>2026-11-08</lastmod></url>
-  <url><loc>https://golf-simulate.com/area/mie/</loc><lastmod>2026-11-08</lastmod></url>
+  <url><loc>https://golf-simulate.com/area/mie/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://golf-simulate.com/area/niigata/</loc><lastmod>2026-11-08</lastmod></url>
   <url><loc>https://golf-simulate.com/area/shiga/</loc><lastmod>2026-11-08</lastmod></url>
   <url><loc>https://golf-simulate.com/area/fukui/</loc><lastmod>2026-11-08</lastmod></url>
@@ -367,7 +367,7 @@
   <url><loc>https://golf-simulate.com/facility/toptracer-iwatsuki-familygolf/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-jgs/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-johganji/</loc><lastmod>2026-11-11</lastmod></url>
-  <url><loc>https://golf-simulate.com/facility/toptracer-jumbogolfgarden/</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/toptracer-jumbogolfgarden/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-kabayagolf/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-kashiba/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-kashiyama/</loc><lastmod>2026-11-01</lastmod></url>
@@ -400,7 +400,7 @@
   <url><loc>https://golf-simulate.com/facility/toptracer-nara-gc/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-nishijin/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-nkc-nihonkai/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://golf-simulate.com/facility/toptracer-nouen/</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/toptracer-nouen/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-oami/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-ogaki/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/toptracer-ohe-grand/</loc><lastmod>2026-11-01</lastmod></url>
@@ -1031,7 +1031,7 @@
   <url><loc>https://golf-simulate.com/facility/smartgolf-kyodo/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-magome-sanno/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-maruyamakoen/</loc><lastmod>2026-11-11</lastmod></url>
-  <url><loc>https://golf-simulate.com/facility/smartgolf-matsudo/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/smartgolf-matsudo/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-meguro/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-meidaimae/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-mejiro/</loc><lastmod>2026-11-01</lastmod></url>
@@ -1042,7 +1042,7 @@
   <url><loc>https://golf-simulate.com/facility/smartgolf-misato/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-mita/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-mitaka/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://golf-simulate.com/facility/smartgolf-mitakashinkawa/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/smartgolf-mitakashinkawa/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-miyahara/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-miyazakidai/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/smartgolf-mizue/</loc><lastmod>2026-11-01</lastmod></url>
@@ -1192,7 +1192,7 @@
   <url><loc>https://golf-simulate.com/facility/golftec-ikebukuro/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/golftec-kanda/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/golftec-otemachi/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://golf-simulate.com/facility/golftec-roppongi/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://golf-simulate.com/facility/golftec-roppongi/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/golftec-shinjuku/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/sanctuarygolf-ikebukuro/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://golf-simulate.com/facility/sanctuarygolf-roppongi/</loc><lastmod>2026-11-13</lastmod></url>
